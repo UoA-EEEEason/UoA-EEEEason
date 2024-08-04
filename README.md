@@ -8,7 +8,7 @@
 I am Yixuan Peng. I am from China and currently doing my Master of Information Technology from University of Auckland 🏫.I love to do web development and open to learning new technologies.
 
 ## 💻 Projects
-* [Hackthon Website (Figma UI designer and Front-end developor)]([https://github.com/UoA-EEEEason](https://github.com/UoA-EEEEason/Hackathon---Course-group-project))
+* [Hackthon Website (Figma UI designer and Front-end developor)](https://github.com/UoA-EEEEason/Hackathon---Course-group-project)
 * [Carbon footprint tracker - CarbonGo (ReactNative developer)](https://github.com/UoA-EEEEason)
 * [Carbon footprint data management website (React developer and Machine learning)](https://github.com/UoA-EEEEason)
 * [Global Climate Analysis and Responsibility (Data Mining learner)](https://github.com/UoA-EEEEason)
