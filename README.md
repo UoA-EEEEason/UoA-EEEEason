@@ -2,7 +2,7 @@
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"' alt="">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/suyash-srivastava-458b01173)
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E4%B8%80%E8%BD%A9-%E5%BD%AD-018777291/)](https://www.linkedin.com/in/%E4%B8%80%E8%BD%A9-%E5%BD%AD-018777291/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ypen781@aucklanduni.ac.nz)](mailto:ypen781@aucklanduni.ac.nz)
 
 I am Yixuan Peng. I am from China and currently doing my Master of Information Technology from University of Auckland 🏫.I love to do web development and open to learning new technologies.
