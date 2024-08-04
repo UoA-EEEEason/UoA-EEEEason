@@ -16,8 +16,8 @@ I am Yixuan Peng. I am from China and currently doing my Master of Information T
 - Front-end development using **HTML, Javascript,CSS**
 - Backend development using **Firebase cloud tech**
 - Leaning Web Design with Figma
-- Using React frameworks and libraries for better website development
-- Using React-Native frameworks and libraries for cross-platform development (Android and iOS)
+- Using **React** frameworks and libraries for better website development
+- Using **React-Native** frameworks and libraries for cross-platform development (Android and iOS)
 - Android app development using **Android Studio**(still learning Kotlin)
 
 ## 👋 Reach out to me
