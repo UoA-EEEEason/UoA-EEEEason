@@ -9,9 +9,9 @@ I am Yixuan Peng. I am from China and currently doing my Master of Information T
 
 ## 💻 Projects
 * [Hackthon Website (Figma UI designer and Front-end developor)](https://github.com/UoA-EEEEason/Hackathon---Course-group-project)
-* [Carbon footprint tracker - CarbonGo (ReactNative developer)](https://github.com/UoA-EEEEason)
-* [Carbon footprint data management website (React developer and Machine learning)](https://github.com/UoA-EEEEason)
-* [Global Climate Analysis and Responsibility (Data Mining learner)](https://github.com/UoA-EEEEason)
+* [Carbon footprint tracker - CarbonGo (ReactNative developer)](https://github.com/UoA-EEEEason/ReactNative-app-CarbonGo---Lying-Flat-group)
+* [Carbon footprint data management website (React developer and Machine learning)](https://github.com/UoA-EEEEason/React-website-CarbonGo---Lying-Flat-group)
+* [Global Climate Analysis and Responsibility (Data Mining learner)](https://github.com/UoA-EEEEason/Data-Mining-Project---Python-version)
 * [Portfolio (personal website is under development)](https://github.com/UoA-EEEEason)
 
 ## ⚡ Technologies
